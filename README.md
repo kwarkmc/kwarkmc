@@ -27,8 +27,8 @@ Embeded / Web Full Stack Developer
  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)<br>
  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) <br><br>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kwarkmc&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kwarkmc&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kwarkmc&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kwarkmc&theme=dracula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kwarkmc&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 ---
